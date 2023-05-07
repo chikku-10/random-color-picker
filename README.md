@@ -1,2 +1,4 @@
 # random-color-picker
-Built using vanilla JS. **Learning vanilla JS**
+Generate random hex code colors in button click.
+Built using vanilla JS.
+**Learning vanilla JS**
